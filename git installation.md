@@ -30,7 +30,11 @@ git push -u origin main
 
 # Login request
 Notice that git does not use te password anymore. You need to generate a PERSONAL TOKEN (GitHub > Settings > Developer Settings > Personal access tokens > Tokens (classic) >  Generate new token (classic) > Name and check the ``repo`` option > Click Generate token and copy it immediately (you won't see it again).)
+
 At the ``push`` use the token as password.
+
 To store the token as password, run the following:
+
 git config --global credential.helper store
+
 git push
