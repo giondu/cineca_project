@@ -4,6 +4,7 @@ sudo dnf install git        # Fedora
 
 # step 2
 git config --global user.name "Your Name"
+
 git config --global user.email "your@email.com"
 
 # step 3
