@@ -1,6 +1,6 @@
-# Sofi – The LLAMA of WallStreet
+# FIRST TRIAL: THIS IS NOT THE FINAL NOTEBOOK. FOR FINAL NOTEBOOK CHECK HUGO'S FOLDER - The LLAMA of WallStreet
 
-## Overview
+## OvervieW:
 
 This repository contains my solution for the **Big Data Laboratory Team Project**:
 
